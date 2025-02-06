@@ -1,0 +1,9 @@
+{
+    "pia_user": "p1234567",
+    "pia_pass": "MyPass",
+    "server_list": "https://serverlist.piaservers.net/vpninfo/servers/v6",
+    "region": "auto",
+    "ignore_geo_regions": true,
+    "port_forward": true,
+    "latency": 0.50
+}
