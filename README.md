@@ -18,6 +18,8 @@ Fork Notes:
 	`sudo apt install bash curl jq wireguard git`
 10. Download:
 	`sudo git clone https://github.com/joselin666/Pia-wireguard-manual-connections-for-Debian12.git /opt/pia`
+11. Edit config/pia with your PIA user and pass
+12. sudo /opt/pia/run.sh for manual execution. 
 
 End of Fork Notes
 
