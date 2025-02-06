@@ -5,5 +5,5 @@
     "region": "auto",
     "ignore_geo_regions": true,
     "port_forward": true,
-    "latency": 0.50
+    "latency": 0.75
 }
