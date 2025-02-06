@@ -1,3 +1,4 @@
+config/pia_config.json
 PIAreconectar.sh
 PIAdesconectar.sh
 PIAestado.sh
